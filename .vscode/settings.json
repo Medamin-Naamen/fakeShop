@@ -1,0 +1,8 @@
+{
+    "gutterpreview.paths": {
+        
+            "htmltagwrap.tag": "p",
+            "htmltagwrap.autoDeselectClosingTag": true
+         
+    }
+}
